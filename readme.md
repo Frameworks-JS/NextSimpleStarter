@@ -10,9 +10,13 @@
 - [Development Workflow](#development-workflow)
 - [Deployment](#deployment)
 
+### Tutorial
+- [Repository](https://github.com/Frameworks-JS/NextSimpleStarter)
+- [YouTube Playlist PT-Br](https://www.youtube.com/watch?v=9eI0o8io7I0&list=PLkFMdTTdI9c2js2bPRUhChVA0jdI)
+
 ### Installation
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/NextSimpleStarter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Frameworks-JS/NextSimpleStarter)
 
 ### Development Workflow
 Start a live-reload development server:
@@ -33,7 +37,7 @@ or
 npm run build
 ```
 ### Deployment
-[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/ooade/NextSimpleStarter)
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/Frameworks-JS/NextSimpleStarter)
 
 <details>
 	<summary>heroku</summary>
